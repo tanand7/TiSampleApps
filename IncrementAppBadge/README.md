@@ -1,5 +1,5 @@
-devAnandTi
-==========
+Increment App Badge : Titanium
+===============================
 
 This is an iPhone application software which is used to increment the iPhone Appbadge. I have searched a lot for such one and unfortunately I didn't get one. Even Appcelerator doesn't provide such a facility. Atlast I found a solution for it.
 
