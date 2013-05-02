@@ -9,6 +9,6 @@ You have to do the following things to do it.
 2. Replace the resources folder with mine.
 3. Login to www.appcelerator.com, go to your app then go to Manage ACS
 4. Create a new user as admin, set user as admin
-5. Create a new Access Control List(ACS) using the admin user and give the ACS Name as 'SampleApp'
+5. Create a new Access Control List(ACS) using the admin user and give the ACL Name as 'SampleApp'
 6. Upload the p12 certificate for push notification
 7. Now Install the application to your iPhone and run the app...
